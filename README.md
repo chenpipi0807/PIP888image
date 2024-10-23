@@ -26,7 +26,7 @@
 2.克隆项目
 
 cd ComfyUI/custom_nodes
-git clone https://github.com/pip888/PIP888image.git
+git clone https://github.com/chenpipi0807/PIP888image.git
 cd PIP888image
 pip install -r requirements.txt
 
