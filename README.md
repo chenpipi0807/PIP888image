@@ -1,4 +1,6 @@
 # PIP888image
+![微信截图_20241023151628](https://github.com/user-attachments/assets/00c554f5-102a-41eb-bbcf-8d3fa84bd044)
+
 自用节点，八等分切图和拼图
 # PIP 图像处理节点
 
